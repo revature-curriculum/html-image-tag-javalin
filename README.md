@@ -1,10 +1,11 @@
 ## Javalin HTML Image Tag
 ---
 ### Description
-
+This lab will cover how to create images in HTML files.
 
 ---
 ### Steps
+1. In src -> main -> resources -> index.html create an image tag enclosed by the body tags. Use an image of your favorite animal.
 
 ---
 ### Sample Output
