@@ -1,4 +1,4 @@
-## HTML Image Tag
+## HTML Image Tag Answer
 ---
 ### Description
 In this lab, you will add an image to an HTML file using the img tag.
